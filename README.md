@@ -29,11 +29,11 @@
   <img src="https://img.shields.io/badge/TryHackMe-TheRealVirus-red?style=for-the-badge&logo=tryhackme">
 </a>
 
-<a href="https://discord.gg/invite/m4mycqG9" target="_blank">
+<a href="https://discord.gg/fFqpwwBC" target="_blank">
   <img src="https://img.shields.io/badge/Discord-MyDiscord-blue?style=for-the-badge&logo=discord">
 </a>
 
-<a href="https://www.linkedin.com/in/muhammad-shah-9b627a317" target="_blank">
+<a href="https://www.linkedin.com/in/syed-muhammad-shah" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-MyLinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
