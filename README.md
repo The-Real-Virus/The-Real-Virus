@@ -13,10 +13,6 @@
 ## 🌐Top Repo🌐
 ![](https://github-contributor-stats.vercel.app/api?username=The-Real-Virus&theme=radical&limit=5&combine_all_yearly_contributions=true)
 
-## 🏆My Trophies🏆
-![](https://github-profile-trophy.vercel.app/?username=The-Real-Virus&theme=radical&margin-w=4)
-
-
 ## 💬Social💬
 <a href="https://instagram.com/cyber_society1" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-cyber_society1-purple?style=for-the-badge&logo=instagram">
