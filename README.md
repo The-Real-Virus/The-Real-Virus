@@ -1,40 +1,134 @@
-# 💀Technology💀
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Batch](https://img.shields.io/badge/batch-%23000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Hacking](https://img.shields.io/badge/HACKING-0078D6?style=for-the-badge&logo=hack-the-box&logoColor=white) ![Cyber Security](https://img.shields.io/badge/CYBER_SECURITY-%23000000.svg?style=for-the-badge&logo=burp-suite&logoColor=white) ![White Hat](https://img.shields.io/badge/WHITE_HAT-%235391FE.svg?style=for-the-badge&logo=tor-browser&logoColor=white) ![Programming](https://img.shields.io/badge/PROGRAMMING-%234D4D4D.svg?style=for-the-badge&logo=codewars&logoColor=white) ![Trader](https://img.shields.io/badge/TRADER-0078D6?style=for-the-badge&logo=tradingview&logoColor=white) ![C++](https://img.shields.io/badge/C++-0078D6?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-%235391FE.svg?style=for-the-badge&logo=json&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Assembly](https://img.shields.io/badge/ASSEMBLY-0078D6?style=for-the-badge&logo=nasm&logoColor=white) ![C#](https://img.shields.io/badge/C_SHARP-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
+<div align="center">
 
-# ⚡My Stats⚡
-![](https://streak-stats.demolab.com/?user=The-Real-Virus&theme=radical&cache_seconds=86400)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,50:0A2E1F,100:006633&height=210&section=header&text=ViRuS%20%7C%20Syed%20Muhammad%20Shah&fontSize=38&fontColor=00FF66&animation=blinking&fontAlignY=38&desc=Cybersecurity%20Professional%20%7C%20Security%20Researcher&descSize=15&descAlignY=60" width="100%" alt="ViRuS | Syed Muhammad Shah Banner"/>
 
-![](https://github-readme-stats.vercel.app/api?username=The-Real-Virus&show_icons=true&theme=radical&cache_seconds=86400)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Real-Virus&layout=compact&theme=radical&cache_seconds=86400)
-
-![](https://komarev.com/ghpvc/?username=The-Real-Virus&style=for-the-badge)
-
-## 🌐Top Repo🌐
-![](https://github-contributor-stats.vercel.app/api?username=The-Real-Virus&theme=radical&limit=5&combine_all_yearly_contributions=true)
-
-## 💬Social💬
-<a href="https://instagram.com/cyber_society1" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-cyber_society1-purple?style=for-the-badge&logo=instagram">
+<a href="https://github.com/The-Real-Virus">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=820&lines=Cybersecurity+Professional+%26+Ethical+Hacker;Security+Researcher+%7C+VAPT;SOC+Analyst+%26+Digital+Forensics;Blue+%26+Red+Team+Operations" alt="Bio Typing Animation"/>
 </a>
 
-<a href="https://github.com/The-Real-Virus" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-MyGitHub-green?style=for-the-badge&logo=github">
+<br/>
+
+<a href="https://github.com/The-Real-Virus" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/syed-muhammad-shah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://tryhackme.com/p/TheRealVirus" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF66" alt="TryHackMe"/></a>
+<a href="https://orcid.org/0009-0002-0989-9844" target="_blank"><img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
+<a href="https://www.instagram.com/syed.muhammad.shah/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="https://instagram.com/cyber_society1" target="_blank"><img src="https://img.shields.io/badge/Cyber_Society-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF66" alt="Cyber Society"/></a>
+<a href="https://discord.gg/fFqpwwBC" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=The-Real-Virus&label=PROFILE+VIEWS&color=00b347&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+## `>_ whoami`
+
+I help organizations find their security gaps before attackers do. With hands-on experience across both offensive (Red Team, VAPT) and defensive (Blue Team, SOC, Forensics) operations, I understand how threat actors think and how to build defenses that actually stop them.
+
+As a problem-solver with excellent communication and analytical skills, my focus goes beyond just identifying technical flaws. I have a strong foundation across multiple cybersecurity domains, along with good knowledge of emerging technology like cloud security, app pentesting, operating systems, AI, blockchain, and crypto. I look at how vulnerabilities impact the business, translating complex security risks into clear, practical steps that teams can use to protect their infrastructure.
+
+**My areas:**
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- SOC Analysis & Digital Forensics
+- Blue & Red Team Operations
+- Security Strategy & Risk Communication
+- Security Research
+
+---
+
+## 🛠️ Featured Security Tools
+
+<div align="center">
+
+<a href="https://github.com/The-Real-Virus/APILeakGuard">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Real-Virus&repo=APILeakGuard&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=1B3B2B" alt="APILeakGuard"/>
+</a>
+<a href="https://github.com/The-Real-Virus/Windows-Traige">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Real-Virus&repo=Windows-Traige&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=1B3B2B" alt="Windows-Traige"/>
+</a>
+<a href="https://github.com/The-Real-Virus/Firewall-Assistant">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Real-Virus&repo=Firewall-Assistant&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=1B3B2B" alt="Firewall-Assistant"/>
 </a>
 
-<a href="https://tryhackme.com/p/TheRealVirus" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-TheRealVirus-red?style=for-the-badge&logo=tryhackme">
-</a>
+</div>
 
-<a href="https://discord.gg/fFqpwwBC" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-MyDiscord-blue?style=for-the-badge&logo=discord">
-</a>
+- **[APILeakGuard](https://github.com/The-Real-Virus/APILeakGuard)** — Portable desktop and CLI tool for autonomous API sensitive data leakage detection, policy checks, masked evidence reporting, and optional AI-assisted triage.
+- **[Windows-Traige](https://github.com/The-Real-Virus/Windows-Traige)** — Windows desktop and CLI forensics and incident response tool featuring SHA-256-verified ZIP64 evidence bundles, searchable timelines, reporting, and an optional AI assistant.
+- **[Firewall-Assistant](https://github.com/The-Real-Virus/Firewall-Assistant)** — Offline-first Windows firewall diagnostics desktop app and CLI built with Python, PySide6, and PowerShell for evidence collection, case comparison, and AI-guided analysis.
 
-<a href="https://www.linkedin.com/in/syed-muhammad-shah" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-MyLinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
+> Plus **30+ open-source security scripts and automation utilities** — explore all on **[Repositories](https://github.com/The-Real-Virus?tab=repositories)**.
 
-## ☕️Support☕️
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/therealvirus)
+---
 
-![Snake animation](https://raw.githubusercontent.com/isPique/isPique/output/github-contribution-grid-snake-dark.svg)
+## 📄 Research & Publications
+
+**PhishShield: Manifest V3-Optimized Client-Side Phishing Detection via Transpiled Random Forest Inference**
+- *Status:* Under Review for Academic Publication *(Upcoming)*
+- *Focus:* Real-time, client-side phishing detection inside a Manifest V3 browser extension using transpiled Random Forest inference.
+- *Links:* [Repository](https://github.com/The-Real-Virus/PhishShield) · [ORCID Profile](https://orcid.org/0009-0002-0989-9844)
+
+---
+
+## ⚙️ Domains, Systems & Stack
+
+<div align="center">
+
+**Security & Emerging Tech Domains**
+
+<img src="https://img.shields.io/badge/Offensive_Security-0D1117?style=for-the-badge&logoColor=00FF66" alt="Offensive Security"/>
+<img src="https://img.shields.io/badge/Defensive_Security-0D1117?style=for-the-badge&logoColor=00FF66" alt="Defensive Security"/>
+<img src="https://img.shields.io/badge/VAPT-0D1117?style=for-the-badge&logoColor=00FF66" alt="VAPT"/>
+<img src="https://img.shields.io/badge/SOC_%26_DFIR-0D1117?style=for-the-badge&logoColor=00FF66" alt="SOC and DFIR"/>
+<img src="https://img.shields.io/badge/Network_Security-0D1117?style=for-the-badge&logoColor=00FF66" alt="Network Security"/>
+<img src="https://img.shields.io/badge/Cloud_Security-0D1117?style=for-the-badge&logoColor=00FF66" alt="Cloud Security"/>
+<img src="https://img.shields.io/badge/App_%26_API_Security-0D1117?style=for-the-badge&logoColor=00FF66" alt="Application and API Security"/>
+<img src="https://img.shields.io/badge/AI_%2F_ML-0D1117?style=for-the-badge&logoColor=00FF66" alt="AI and Machine Learning"/>
+<img src="https://img.shields.io/badge/Blockchain_%26_Crypto-0D1117?style=for-the-badge&logoColor=00FF66" alt="Blockchain and Crypto"/>
+
+<br/><br/>
+
+**Operating Systems & Scripting**
+
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,powershell&theme=dark" alt="Operating Systems and Scripting"/>
+
+<br/><br/>
+
+**Languages, Databases & Development**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,php,html,css,sqlite,mysql,git,github,vscode,visualstudio,androidstudio,md&theme=dark&perline=8" alt="Languages, Databases, and Development"/>
+
+</div>
+
+---
+
+## ⚡ GitHub Stats & Analytics
+
+<div align="center">
+
+<img height="145" src="https://github-readme-stats.vercel.app/api?username=The-Real-Virus&show_icons=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=1B3B2B&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="145" src="https://streak-stats.demolab.com/?user=The-Real-Virus&background=0D1117&border=1B3B2B&stroke=1B3B2B&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF66&sideLabels=00FF66&dates=8B949E&cache_seconds=86400" alt="GitHub Streak"/>
+
+<br/>
+
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Real-Virus&layout=compact&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=1B3B2B&cache_seconds=86400" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="74%" src="https://github-readme-activity-graph.vercel.app/graph?username=The-Real-Virus&bg_color=0D1117&color=00FF66&line=00E676&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Real-Virus/The-Real-Virus/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Real-Virus/The-Real-Virus/output/github-contribution-grid-snake.svg"/>
+  <img width="74%" alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/The-Real-Virus/The-Real-Virus/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,50:0A2E1F,100:006633&height=110&section=footer" width="100%" alt="Footer Banner"/>
+
+</div>
