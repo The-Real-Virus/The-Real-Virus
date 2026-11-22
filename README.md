@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,50:0A2E1F,100:006633&height=210&section=header&text=Syed%20Muhammad%20Shah&fontSize=46&fontColor=00FF66&animation=blinking&fontAlignY=38&desc=ViRuS&descSize=26&descAlignY=63" width="100%" alt="Syed Muhammad Shah - ViRuS Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,50:0A2E1F,100:006633&height=210&section=header&text=Syed%20Muhammad%20Shah&fontSize=46&fontColor=00FF66&animation=blinking&fontAlignY=38&desc=ViRuS&descSize=30&descAlignY=63" width="100%" alt="Syed Muhammad Shah - ViRuS Banner"/>
 <a href="https://github.com/The-Real-Virus"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&height=34&width=820&lines=Cybersecurity+Professional+%26+Ethical+Hacker;Security+Researcher+%26+VAPT;SOC+Analyst+%26+Digital+Forensics;Blue+%26+Red+Team+Operations" alt="Bio Typing Animation"/></a>
 <br/>
 <a href="https://github.com/The-Real-Virus" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub"/></a>
@@ -81,25 +81,33 @@
 
 <div align="center">
 
-**`[ Security & Emerging Tech Domains ]`**
-<br/>
-<img src="https://img.shields.io/badge/RED-Offensive_Security-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=kalilinux&logoColor=00FF66" alt="Offensive Security"/>
-<img src="https://img.shields.io/badge/BLUE-Defensive_Security-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=bitwarden&logoColor=00FF66" alt="Defensive Security"/>
-<img src="https://img.shields.io/badge/SEC-VAPT-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=owasp&logoColor=00FF66" alt="VAPT"/>
-<img src="https://img.shields.io/badge/OPS-SOC_%26_DFIR-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=gnubash&logoColor=00FF66" alt="SOC and DFIR"/>
-<img src="https://img.shields.io/badge/NET-Network_Security-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=openvpn&logoColor=00FF66" alt="Network Security"/>
-<img src="https://img.shields.io/badge/CLD-Cloud_Security-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=cloudflare&logoColor=00FF66" alt="Cloud Security"/>
-<img src="https://img.shields.io/badge/API-App_%26_API_Security-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=json&logoColor=00FF66" alt="App and API Security"/>
-<img src="https://img.shields.io/badge/AI-AI_%26_Machine_Learning-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=probot&logoColor=00FF66" alt="AI and Machine Learning"/>
-<img src="https://img.shields.io/badge/WEB3-Blockchain_%26_Crypto-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=bitcoin&logoColor=00FF66" alt="Blockchain and Crypto"/>
-<br/>
-**`[ Operating Systems, Scripting & Automation ]`**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,powershell,regex,githubactions&theme=dark&perline=10" alt="Operating Systems, Scripting and Automation"/>
-<br/>
-**`[ Languages, Databases & Development ]`**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,php,html,css,wasm,qt,sqlite,mysql,git,github,vscode,visualstudio,androidstudio,md&theme=dark&perline=18" alt="Languages, Databases and Development"/>
+<p><strong><code>[ Security &amp; Emerging Tech Domains ]</code></strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/RED-Offensive_Security-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=kalilinux&logoColor=00FF66" alt="Offensive Security"/>&nbsp;
+  <img src="https://img.shields.io/badge/SEC-VAPT-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=owasp&logoColor=00FF66" alt="VAPT"/>&nbsp;
+  <img src="https://img.shields.io/badge/BLUE-Defensive_Security-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=bitwarden&logoColor=00FF66" alt="Defensive Security"/>
+  <br/>
+  <img src="https://img.shields.io/badge/NET-Network_Security-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=openvpn&logoColor=00FF66" alt="Network Security"/>&nbsp;
+  <img src="https://img.shields.io/badge/OPS-SOC_%26_DFIR-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=gnubash&logoColor=00FF66" alt="SOC and DFIR"/>&nbsp;
+  <img src="https://img.shields.io/badge/CLD-Cloud_Security-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=cloudflare&logoColor=00FF66" alt="Cloud Security"/>
+  <br/>
+  <img src="https://img.shields.io/badge/API-App_%26_API_Security-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=json&logoColor=00FF66" alt="App and API Security"/>&nbsp;
+  <img src="https://img.shields.io/badge/AI-AI_%26_Machine_Learning-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=probot&logoColor=00FF66" alt="AI and Machine Learning"/>&nbsp;
+  <img src="https://img.shields.io/badge/WEB3-Blockchain_%26_Crypto-0D1117?style=for-the-badge&labelColor=0A2E1F&logo=bitcoin&logoColor=00FF66" alt="Blockchain and Crypto"/>
+</p>
+
+<p><strong><code>[ Operating Systems, Scripting &amp; Automation ]</code></strong></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,powershell,regex,githubactions&theme=dark&perline=10" alt="Operating Systems, Scripting and Automation"/>
+</p>
+
+<p><strong><code>[ Languages, Databases &amp; Development ]</code></strong></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,php,html,css,wasm,qt,sqlite,mysql,git,github,vscode,visualstudio,androidstudio,md&theme=dark&perline=18" alt="Languages, Databases and Development"/>
+</p>
 
 </div>
 
