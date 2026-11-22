@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,50:0A2E1F,100:006633&height=210&section=header&text=Syed%20Muhammad%20Shah&fontSize=46&fontColor=00FF66&animation=blinking&fontAlignY=38&desc=ViRuS&descSize=30&descAlignY=63" width="100%" alt="Syed Muhammad Shah - ViRuS Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,50:0A2E1F,100:006633&height=210&section=header&text=Syed%20Muhammad%20Shah&fontSize=46&fontColor=00FF66&animation=blinking&fontAlignY=38&desc=%F0%9F%8F%B4%20ViRuS%20%F0%9F%8F%B4&descSize=30&descAlignY=63" width="100%" alt="Syed Muhammad Shah - ViRuS Banner"/>
 <a href="https://github.com/The-Real-Virus"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&height=34&width=820&lines=Cybersecurity+Professional+%26+Ethical+Hacker;Security+Researcher+%26+VAPT;SOC+Analyst+%26+Digital+Forensics;Blue+%26+Red+Team+Operations" alt="Bio Typing Animation"/></a>
 <br/>
 <a href="https://github.com/The-Real-Virus" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub"/></a>
@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/syed.muhammad.shah/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
 <a href="https://instagram.com/cyber_society1" target="_blank"><img src="https://img.shields.io/badge/Cyber_Society-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF66" alt="Cyber Society"/></a>
 <a href="https://discord.gg/fFqpwwBC" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
-<br/>
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=The-Real-Virus&label=PROFILE+VIEWS&color=00b347&style=for-the-badge" alt="Profile Views"/>
 
 </div>
